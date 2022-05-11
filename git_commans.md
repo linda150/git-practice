@@ -18,4 +18,4 @@ git commit: Este comando sirve para identificar de que tipo son los cambios efec
 
 git push: Este comando sire para subir los cambios
 
-git merge: Este comando sirve para agregar los cambios de una rama a la rama principal
+git merge: Este comando sirve para agregar los cambios de una rama a la rama actual
